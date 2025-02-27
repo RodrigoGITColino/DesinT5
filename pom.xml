@@ -34,7 +34,7 @@
 								${project.build.directory}/${project.build.finalName}.jar</jar>
 							<errTitle>App Error</errTitle>
 							<classPath>
-								<mainClass>com.tarea5.Interface</mainClass>
+								<mainClass>src.main.java.Ventana</mainClass>
 							</classPath>
 						</configuration>
 					</execution>
